@@ -484,7 +484,7 @@ table img[src*="/retrieve/"] {
 /* Ajuste de tamanho dos títulos */
 
 h1, .h1 {
-font-size: 20x;
+font-size: 20px;
 }
 
 /* Ajuste de tamanho da descrição do repositório */
